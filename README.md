@@ -1,0 +1,1 @@
+### a simple deep learning libs implemented by pure scala using nd4j for matrix operations
